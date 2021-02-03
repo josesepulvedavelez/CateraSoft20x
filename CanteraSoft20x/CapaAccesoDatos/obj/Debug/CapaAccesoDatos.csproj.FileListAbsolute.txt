@@ -1,0 +1,9 @@
+C:\Users\Administrador\Documents\CateraSoft20x\CanteraSoft20x\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Administrador\Documents\CateraSoft20x\CanteraSoft20x\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Administrador\Documents\CateraSoft20x\CanteraSoft20x\CapaAccesoDatos\bin\Debug\CapaModelo.dll
+C:\Users\Administrador\Documents\CateraSoft20x\CanteraSoft20x\CapaAccesoDatos\bin\Debug\CapaModelo.pdb
+C:\Users\Administrador\Documents\CateraSoft20x\CanteraSoft20x\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\CateraSoft20x\CanteraSoft20x\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\CateraSoft20x\CanteraSoft20x\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Administrador\Documents\CateraSoft20x\CanteraSoft20x\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Administrador\Documents\CateraSoft20x\CanteraSoft20x\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

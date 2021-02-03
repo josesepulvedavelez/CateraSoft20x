@@ -1,0 +1,6 @@
+C:\Users\Administrador\Documents\CateraSoft20x\CanteraSoft20x\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Administrador\Documents\CateraSoft20x\CanteraSoft20x\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Administrador\Documents\CateraSoft20x\CanteraSoft20x\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\CateraSoft20x\CanteraSoft20x\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\CateraSoft20x\CanteraSoft20x\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Administrador\Documents\CateraSoft20x\CanteraSoft20x\CapaModelo\obj\Debug\CapaModelo.pdb
